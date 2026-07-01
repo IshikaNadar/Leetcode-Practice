@@ -1,4 +1,4 @@
-// Last updated: 6/28/2026, 10:30:52 PM
+// Last updated: 7/1/2026, 3:16:46 PM
 1class Solution {
 2    public int majorityElement(int[] nums) {
 3        //better approach with sorting  T.C. = O(nlogn)
